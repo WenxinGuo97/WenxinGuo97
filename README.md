@@ -1,5 +1,5 @@
 # Resume_private
-<h1 align="center">Hi 👋, I'm Yuanliang Xue</h1>
+<h1 align="center">Hi 👋, I'm Wenxin Guo</h1>
 <h3 align="left">Personal information</h3>
 
 - 👨‍🎓 My name is Wenxin Guo (郭文昕). From 2022.03, I work as a PhD candidate at Xi’an Research Institute of High-tech, Xi’an, Shaanxi, China.
