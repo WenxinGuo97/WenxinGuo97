@@ -8,13 +8,13 @@
 
 - 📚 My researches focus on Reinforcement Learning and its applications to adaptive dynamic programming. My current interests include **adaptive dynamic programming, optimal control, robust control**. I have published 3 papers related to above topics on some international journals
 
-- More information is on *https://xyl-507.github.io/* or *https://orcid.org/0000-0002-8753-4990*
+- More information is on *https://orcid.org/0000-0002-5103-728X*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-- 📫 For any academic exchange or cooperation: xyl_507@outlook.com
+- 📫 For any academic exchange or cooperation: gwx_97@163.com
 
 <h3 align="left">Welcome to my page!</h3>
 <p align="left">
