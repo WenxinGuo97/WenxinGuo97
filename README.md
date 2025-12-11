@@ -4,8 +4,6 @@
 
 - 👨‍🎓 My name is Wenxin Guo (郭文昕). From 2022.03, I work as a PhD candidate at Rocket Force University of Engineering, Xi’an, Shaanxi, China
 
-- 📚 My researches focus on Deep Learning and its applications to image (video) processing, computer vision and UAV. My current interests include **object detection and tracking, aerial detection and tracking**. I have published 20+ papers related to above topics on some international conferences and journals
-
 - 📚 My researches focus on Reinforcement Learning and its applications to adaptive dynamic programming. My current interests include **adaptive dynamic programming, optimal control, robust control**. I have published 3 papers related to above topics on some international journals
 
 - 🔥 **Academic News**
